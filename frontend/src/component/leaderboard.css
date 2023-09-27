@@ -1,0 +1,15 @@
+.leaderboard {
+  width: auto;
+  border-radius: 10px;
+  background-color: #FFF7E6;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;;
+}
